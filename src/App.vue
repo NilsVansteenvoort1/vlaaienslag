@@ -34,18 +34,19 @@
               <b-tag type="is-primary">Boom</b-tag>
             </b-taglist>
           </p>
+          
+<link rel="stylesheet" type="text/css" href="https://tickets.scoutshellegat.be/vlaaienslag-2/widget/v1.css">
+<script type="text/javascript" src="https://tickets.scoutshellegat.be/widget/v1.nl.js" async></script>
 
-
+<pretix-widget event="https://tickets.scoutshellegat.be/vlaaienslag-2/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tickets.scoutshellegat.be/vlaaienslag-2/">click here</a>.
         </div>
-        <div class="pretix-widget-compat" skip-ssl-check event="https://vlaaienslag.scoutshellegat.be/" data-campaign="am5tFQ3s3"> </div>
-        <noscript>
-           <div class="pretix-widget ">
-                <div class="pretix-widget-info-message">
-                    JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://vlaaienslag.scoutshellegat.be/c/am5tFQ3s3/">click here</a>.
-                </div>
-            </div>
-        </noscript>
-   </div>
+    </div>
+</noscript>
+
   </section>
 
     <footer class="footer">
